@@ -1,4 +1,4 @@
-# Simulador-de-Campeonato
+# Campeonato de Futebol
 Um simples simulador de campeonato de futebol, utilizando a tecnologia Python.
  
  TIME DE VÁRZEA
